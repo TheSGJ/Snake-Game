@@ -15,6 +15,6 @@ If you want to set Difficulty value to 10, you can set it like difficulty = 10
   
 ## Authors
 
-- [@TheSGJ](https://https://www.github.com/TheSGJ)
+- [@TheSGJ](https://https://github.com/TheSGJ)
 
   
